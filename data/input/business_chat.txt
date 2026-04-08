@@ -1,0 +1,95 @@
+--- CHAT 001 ---
+Date: 2026-04-01
+Customer: Hello! I saw your ad for the customized mechanical keyboards. Do you ship to London?
+Business: Hi there! Yes, we ship to the UK regularly. Shipping to London takes about 5-7 business days.
+Customer: Brilliant. I’m looking at the "Nebula" model with the silent switches. Is it currently in stock?
+Business: We have 3 left in stock. It’s $120 USD plus $15 for international shipping.
+Customer: Perfect, I’ll take one. Please send it to: Oliver Twist, 48 Primrose Hill, London NW1 8XX, United Kingdom. 
+Business: Got it. Can you provide a contact number for the courier?
+Customer: Sure, it’s +44 7700 900123. 
+Business: Excellent, Oliver. Payment received. Your order is confirmed and will be dispatched tomorrow.
+
+--- CHAT 002 ---
+Date: 2026-04-01
+Customer: Hey, what’s the price for the bulk order of the organic cotton t-shirts?
+Business: Hi! For orders over 50 units, they are $8 each. For over 100 units, it’s $6.50.
+Customer: Does that include the printing cost for my logo?
+Business: No, printing is an additional $1.50 per shirt. What’s the destination country?
+Customer: I’m in Mumbai, India. 
+Business: Shipping to India for 100 units would be quite heavy. Let me calculate the freight.
+Customer: Actually, let me check with my partner first. $6.50 seems a bit high compared to local suppliers. I'll get back to you.
+
+--- CHAT 003 ---
+Date: 2026-04-02
+Customer: Good morning. I’m interested in the handmade leather boots (Size 42, Brown).
+Business: Hi! Those are our best-sellers. We have that size available.
+Customer: Great. Before I buy, are they waterproof? I live in a very rainy area in Melbourne.
+Business: They are water-resistant but we recommend applying a wax coating for heavy rain. 
+Customer: Sounds good. I'll take them. Here are my details: Liam Hemsworth, 122 Flinders St, Melbourne VIC 3000, Australia. Mobile: +61 412 345 678.
+Business: Order confirmed, Liam! We’ll include a free tin of leather wax since you mentioned the rain. Thank you for your purchase.
+
+--- CHAT 004 ---
+Date: 2026-04-02
+Customer: Can you send more photos of the vintage camera? I want to see the lens condition.
+Business: Sure! Here are 4 high-res photos. As you can see, there are no scratches on the glass.
+Customer: It looks okay, but is the shutter speed accurate?
+Business: We tested it last week and it’s within 10% of the target speed.
+Customer: I’m not sure. It looks a bit too worn out for that price. Do you have a newer model?
+Business: Not at the moment, this is a rare collector's item.
+Customer: I'll pass for now, thanks anyway.
+
+--- CHAT 005 ---
+Date: 2026-04-03
+Customer: Hi, I need to order the solar power kit for my cabin in Lagos.
+Business: Hello! Our 200W kit is perfect for off-grid cabins. It's 450,000 Naira.
+Customer: That works for me. Can you deliver to Lekki Phase 1?
+Business: Yes, we can. We just need the specific address and a phone number.
+Customer: Address: Block 12, Plot 5, Admiralty Way, Lekki, Lagos. Name: Chioma Adeyemi. Phone: +234 803 123 4567.
+Business: Thank you, Chioma. Order is confirmed. Our technician will call you tomorrow for the delivery slot.
+
+--- CHAT 006 ---
+Date: 2026-04-03
+Customer: Hello, I bought a watch from you last year and the strap broke. Do you sell replacements?
+Business: Hi! I’m sorry to hear that. Yes, we have leather and silicone straps.
+Customer: How much is the leather one?
+Business: $25 USD.
+Customer: That’s a bit expensive for a strap. Is it covered under warranty?
+Business: Unfortunately, the warranty only covers the watch movement, not the strap wear and tear.
+Customer: Okay, I’ll think about it. Maybe I’ll check a local shop.
+
+--- CHAT 007 ---
+Date: 2026-04-04
+Customer: I’d like to purchase the ergonomic office chair we discussed on Instagram.
+Business: Glad to hear that! Would you like the Grey or the Black version?
+Customer: The Black one, please. I’m ready to pay.
+Business: Perfect. Please provide your delivery info.
+Customer: Please send it to: Chen Wei, 15 Orchard Road, #04-12, Singapore 238888. Contact: +65 9123 4567.
+Business: Thanks, Chen! Payment confirmed. We are processing your order now.
+
+--- CHAT 008 ---
+Date: 2026-04-04
+Customer: Hi, do you accept Bitcoin?
+Business: No, we currently only accept Credit Cards, PayPal, and Bank Transfers.
+Customer: Oh, that’s a shame. I only have crypto available right now. 
+Business: We might add crypto payments later this year.
+Customer: Let me know when you do, I really liked that jacket. Bye.
+
+--- CHAT 009 ---
+Date: 2026-04-05
+Customer: Hello! I’m looking for a gift for my sister’s wedding. Is the silver jewelry set still available?
+Business: Yes, it is! It comes in a beautiful velvet box.
+Customer: Lovely. I’m in Cape Town, how long does shipping take?
+Business: Usually 2 days via DHL.
+Customer: Fantastic. Let's do it. Name: Sarah Jenkins. Address: 45 Buitengracht St, Cape Town, 8001, South Africa. My number is +27 21 456 7890.
+Business: Perfect choice, Sarah. Order confirmed! We'll include a gift card for the wedding.
+
+--- CHAT 010 ---
+Date: 2026-04-05
+Customer: Hey, I want to buy the gaming laptop. Can you give me a discount?
+Business: Hello! The price is already discounted by 15% for the spring sale.
+Customer: Come on, I'm a recurring customer. Just $50 more off?
+Business: I'm afraid that's the lowest we can go for this model.
+Customer: Fine, I'll take it. Send it to my office at the usual address.
+Business: I'm sorry, we don't have your office address on this new system. Could you please provide your full address and phone number again to confirm the order?
+Customer: I'm driving right now, I'll send it later tonight.
+[End of conversation - No data provided]
