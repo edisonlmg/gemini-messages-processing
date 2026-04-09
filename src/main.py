@@ -16,8 +16,8 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 model = genai.GenerativeModel('gemini-2.5-flash-lite') 
 
 # Directory configuration (Pathlib is cross-platform and robust)
-INPUT_DIR = Path("../data/input")
-OUTPUT_DIR = Path("../data/output")
+INPUT_DIR = Path("data/input")
+OUTPUT_DIR = Path("data/output")
 
 # Create directories automatically if they do not exist
 INPUT_DIR.mkdir(parents=True, exist_ok=True)
